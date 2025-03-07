@@ -1,3 +1,17 @@
+#snakeGame app
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: MAHIPAL
+
+*INTERN ID*:CT08PBA
+
+*DOMAIN*: C++ PROGRAMMING
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTHOSH
+
 # Cannibal Snakes
 Cannibal Snakes, a game made for ICA Component 2 for the module 'Games Development with C++'. This is Snake, built from scratch with SFML and C++, with a 'Gobble Mode' mechanic, in which you can intercept with other snakes and, instead of dying, you gobble them up to their tail. This project was done in just over a month, with around a thousand lines of C++ code, featuring a full menu system, homemade graphics in an 80's retro style, sound effects and music courtesy of https://opengameart.org/content/library-of-game-sounds. The full game can be downloaded and played with the zip folder in the Releases Tab! 
 ## Game Screenshots
